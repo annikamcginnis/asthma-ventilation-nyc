@@ -1,4 +1,4 @@
-# How does poor ventilation affect asthma rates across New York City?
+# How does poor building ventilation affect asthma rates across New York City?
 
 This analysis joins three datasets:
 - Emergency department visits for asthma (adults) from NYC.gov’s Environment and Health Data Portal
